@@ -1,0 +1,15 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #26171b;
+}
+.navbar{
+  background-color: #d93030;
+}
+.pokeball{
+  width: 20px;
+  height: 20px;
+  padding-right: 3px;
+  position: relative;
+  margin-top: -8px;
+}
